@@ -1,1 +1,1 @@
-from handlers import client, others
+from bot_source.handlers import client

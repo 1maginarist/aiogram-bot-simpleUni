@@ -1,1 +1,1 @@
-from database import database_schedule
+from bot_source.database import database_schedule
